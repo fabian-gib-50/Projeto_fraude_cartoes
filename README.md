@@ -13,3 +13,15 @@ PROBLEMA DE NEGÓCIO
 - Uma saída é testarmos sempre os modelos com diferentes similaridades e distânciamentos das entidades, com diferentes dados, simulando os cálculos de semelhança, distância e agrupamentos mais assertivos, refiro-me a técnicas diferentes para diferentes grupos e difetentes indivíduos, grupos de pessoas ( classificação mais assertiva ), treino e testes.
 
 - O desafio é justamente esse, colocar a IA cadas vez mais nos processos anti-fraudes, e oferecer segurança para os usuários
+
+**Dbian Technology For Business**
+
+- Blumenau - SC
+
+Claudio Fabian Stychnicki Data Scientist
+
+Phone: (47) 9-92374737
+
+Best regards;
+
+Informações complementares em meu linkedIn
